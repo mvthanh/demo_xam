@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 ca khia
+=======
+aha
+hello
+>>>>>>> 2835d35fa3fbc65cc0e83a4d4046b2cc80535912
